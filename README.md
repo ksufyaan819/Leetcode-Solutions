@@ -13,6 +13,7 @@
 | [0155-min-stack](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -22,10 +23,12 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
