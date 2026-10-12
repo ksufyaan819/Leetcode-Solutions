@@ -15,6 +15,7 @@
 | [0682-baseball-game](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -48,4 +50,9 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
