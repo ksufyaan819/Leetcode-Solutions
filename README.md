@@ -34,6 +34,7 @@
 | [0735-asteroid-collision](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0853-car-fleet) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0853-car-fleet) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
