@@ -15,6 +15,7 @@
 | [0682-baseball-game](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -27,6 +28,7 @@
 | [0682-baseball-game](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0853-car-fleet) |
 ## Simulation
 |  |
 | ------- |
@@ -50,9 +52,14 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+## Sorting
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
