@@ -20,6 +20,7 @@
 | [0735-asteroid-collision](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -43,6 +44,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0895-maximum-frequency-stack](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -70,4 +72,12 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0394-decode-string) |
+## Hash Table
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
