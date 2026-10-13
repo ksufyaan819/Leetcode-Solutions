@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0071-simplify-path) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ksufyaan819/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
